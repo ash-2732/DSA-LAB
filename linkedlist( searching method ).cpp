@@ -34,7 +34,7 @@ void InsertAtTail( node * &head , int value ){
     temp -> next = n;
 }
 
-bool search( node *head , int key ){
+bool search( node *head , int key ){  // how to search element in the linked list
 
     node *temp = head;
     while( temp != NULL ){
