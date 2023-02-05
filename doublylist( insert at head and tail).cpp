@@ -61,6 +61,9 @@ int main(){
     InsertAtHead( head , 4 );
     InsertAtHead( head , 5 );
     Display( head );
-
+    
+    // output
+    //1 2 3
+   // 5 4 1 2 3
     return 0;
 }
