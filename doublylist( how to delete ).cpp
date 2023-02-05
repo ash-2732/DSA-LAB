@@ -88,6 +88,10 @@ int main(){
     Display( head );
     deletion( head , 2 );
     Display( head );
-
+    
+    // output
+    //1 2 3 
+    //5 4 1 2 3 
+    //5 1 2 3
     return 0;
 }
