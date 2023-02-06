@@ -76,8 +76,8 @@ int main(){
     node *head1 = NULL;
     node *head2 = NULL;
 
-    int element1[] = {};
-    int element2[] = {};
+    int element1[] = {};    // we have to take some sorted element
+    int element2[] = {};    // we have to take some sorted element
 
     for( int i = 0; i < 1; i++ ){
         InsertAtTail( head1 , element1[i] );
